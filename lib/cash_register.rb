@@ -1,5 +1,5 @@
 class CashRegister
-
+#i could have done this better with hashes that hold each item and quantity but meh, i passed all the tests and need to go to sleep soon
 attr_accessor :total, :discount
 
 
